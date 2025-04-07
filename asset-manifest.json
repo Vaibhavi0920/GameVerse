@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameVerse/static/css/main.4e6fe682.css",
+    "main.js": "/GameVerse/static/js/main.82640848.js",
+    "static/js/453.a7095667.chunk.js": "/GameVerse/static/js/453.a7095667.chunk.js",
+    "index.html": "/GameVerse/index.html",
+    "main.4e6fe682.css.map": "/GameVerse/static/css/main.4e6fe682.css.map",
+    "main.82640848.js.map": "/GameVerse/static/js/main.82640848.js.map",
+    "453.a7095667.chunk.js.map": "/GameVerse/static/js/453.a7095667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6fe682.css",
+    "static/js/main.82640848.js"
+  ]
+}
